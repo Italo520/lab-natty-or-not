@@ -18,8 +18,9 @@ O projeto foi dividido em três etapas principais:
 
 ## 🚀 Resultados
 
-![Poster do Livro](.PosterLivro.png)
+![Poster do Livro](PosterLivro.png)
 
+## Link para o Livro
 [Código Sombra](https://gemini.google.com/share/6c12192b8971) 
 
 ###  Roteiro
