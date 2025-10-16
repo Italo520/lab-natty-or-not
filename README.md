@@ -17,6 +17,9 @@ O projeto foi dividido em três etapas principais:
 3.  **Roteirização (usando Gemini):** Por fim, a IA foi instruída a escrever o roteiro completo, com descrição de cenas, diálogos e ações. O prompt foi: *"Escreva um roteiro de curta-metragem de 5 páginas baseado na seguinte sinopse: [sinopse detalhada aqui]. O protagonista se chama Léo, um programador introvertido. O tom deve ser de suspense crescente, culminando em uma revelação chocante."*
 
 ## 🚀 Resultados
+
+![Poster do Livro](.PosterLivro.png)
+
 [Código Sombra](https://gemini.google.com/share/6c12192b8971) 
 
 ###  Roteiro
